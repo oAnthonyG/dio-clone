@@ -25,7 +25,7 @@ export const Card = () => {
         </UserInfo>
         <PostInfo>
           <h4>Projeto para curso de HTML e CSS</h4>
-          <p>Projeto feito o curso de html e css no botcamp dio Global avanade... <stron>Saiba Mais</stron></p>
+          <p>Projeto feito o curso de html e css no botcamp dio Global avanade... <strong>Saiba Mais</strong></p>
         </PostInfo>
         <HasInfo>
           <h4>#HTML #CSS #JAVASCRIPT</h4>
